@@ -176,15 +176,15 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 
 ## 增强学习
 
-- [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](pdf/Hierarchical Deep Reinforcement Learning Integrating Temporal Abstraction and Intrinsic Motivation)
+- [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](pdf/HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionAndIntrinsicMotivation.pdf)
 
 ## Active Learning
 
-- [Deep Bayesian active learning with image data](pdf/Deep Bayesian active learning with image.pdf)
+- [Deep Bayesian active learning with image data](pdf/DeepBayesianActiveLearningWithImage.pdf)
 
     评估了几种基于贝叶斯方法的uncertainty度量在深度神经网络下的效果，结合了dropout的应用，开源代码：https://github.com/Riashat/Active-Learning-Bayesian-Convolutional-Neural-Networks/tree/master/ConvNets/FINAL_Averaged_Experiments/Final_Experiments_Run
 
-- [Semi-Supervised Bayesian Active Learning for Text Classification](pdf/Semi-Supervised Bayesian Active Learning for Text Classification.pdf)
+- [Semi-Supervised Bayesian Active Learning for Text Classification](pdf/SemiSupervisedBayesianActiveLearningForTextClassification.pdf)
 
     半监督学习的文本分类算法，用VAE作为无监督部分，最大熵和BALD（预测结果和模型后验的KL距离）作为uncertainty的度量，用TextCNN作为分类模型
 
@@ -194,12 +194,12 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 
 ## 联邦学习
 
-- [Federated Uncertainty-Aware Learning for Distributed Hospital EHR Data](pdf/Federated Uncertainty-Aware Learning for Distributed Hospital EHR Data.pdf)
+- [Federated Uncertainty-Aware Learning for Distributed Hospital EHR Data](pdf/FederatedUncertainty-AwareLearningForDistributedHospitalEHRData.pdf)
     
     联邦学习在医疗上的应用
 
 ## 语音识别
 
-- [Multi-Task Learning for Text-dependent Speaker Verification](pdf/Multi-Task Learning for Text-dependent Speaker Verification.pdf)
+- [Multi-Task Learning for Text-dependent Speaker Verification](pdf/Multi-TaskLearningForText-dependentSpeakerVerification.pdf)
     
     j-vector，基于多任务学习，通过DNN网络进行speaker的判定和短语内容的判定，然后提取最后一个hidden layer的输出作为语音的embedding
