@@ -178,6 +178,10 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 
 - [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](pdf/HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionAndIntrinsicMotivation.pdf)
 
+- [强化学习在阿里的技术演进及业务创新](pdf/reinforcement_learning.pdf)
+
+    阿里总结的各种强化学习的应用场景及其算法，干货比较多。
+
 ## Active Learning
 
 - [Deep Bayesian active learning with image data](pdf/DeepBayesianActiveLearningWithImage.pdf)
