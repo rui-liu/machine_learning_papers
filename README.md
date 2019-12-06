@@ -92,6 +92,11 @@
 
     Google刷新SQUAD排行榜的论文，基于transformer对词进行预测，在很多NLP任务中都取得了突破性的效果。
 
+
+- [AntNet: Deep Answer Understanding Network forNatural Reverse QA](pdf/AntNetDeepAnswerUnderstandingNetworkForNaturalReverseQA.pdf)
+
+    逆向QA算法，机器人提问，人类回答，机器人尝试对答案进行理解，并抽取人类意图，适合用在电商导购场景。
+
 ## 图像
 - [The One Hundred Layers Tiramisu- Fully Convolutional DenseNets for Semantic Segmentation](pdf/TheOneHundredLayersTiramisuFullyConvolutionalDenseNetsForSemanticSegmentation.pdf)
 
