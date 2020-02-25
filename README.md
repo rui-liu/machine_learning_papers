@@ -102,6 +102,9 @@
 
     介绍了FC DenseNet，一种可用于图像语义分割的网络。
 
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](pdf/MobileNetsEfficientConvolutionalNeuralNetworksforMobileVisionApplications.pdf)
+    MobileNet，一种网络参数较少，适合在移动端或者嵌入式设备上推理的深度卷积网络
+
 ## 图算法
 
 - [The Neo4j Graph Algorithms User Guide v3.5](https://neo4j.com/docs/graph-algorithms/3.5/)
