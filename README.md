@@ -108,7 +108,10 @@
 
 - [SSD: Single Shot MultiBox Detector](pdf/SSDSingleShotMultiBoxDetector.pdf)
 
-    SSD，适合在移动设备部署的目标检测算法。
+    SSD目标检测算法。
+    
+- [SIMPLE ONLINE AND REALTIME TRACKING.pdf](pdf/SIMPLE_ONLINE_AND_REALTIME_TRACKING.pdf)
+    目标追踪算法SORT
 
 ## 图算法
 
