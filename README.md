@@ -123,6 +123,15 @@
 - [SIMPLE ONLINE AND REALTIME TRACKING.pdf](pdf/SIMPLE_ONLINE_AND_REALTIME_TRACKING.pdf)
     目标追踪算法SORT
 
+- [CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition](pdf/CurricularFaceAdaptiveCurriculumLearningLossForDeepFaceRecognitionCVPR2020Paper.pdf)
+    腾讯提出的人脸识别算法Loss，对难的分类样本进行了提权
+
+- [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](pdf/ArcFaceAdditiveAngularMarginLossForDeepFaceRecognition.pdf)
+    State of art的人脸检测模型，主要改进在Loss部分
+
+- [AirFace:Lightweight and Efficient Model for Face Recognition](pdf/AirFaceLightweightAndEfficientModelForFaceRecognition.pdf)
+    中科大的Li-Arcface，据称对小的backbone模型能够解决训练过程难以收敛的问题
+
 ## 图算法
 
 - [The Neo4j Graph Algorithms User Guide v3.5](https://neo4j.com/docs/graph-algorithms/3.5/)
