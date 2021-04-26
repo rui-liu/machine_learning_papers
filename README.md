@@ -213,6 +213,9 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 
     Facebook的时序数据预测库，支持节假日，事件时点的标注，周、月内周期性趋势可视化等
 
+- [RobustPeriod: Time-Frequency Mining for Robust Multiple Periodicities Detection](pdf/RobustPeriodTimeFrequencyMiningForRobustMultiplePeriodicitiesDetection.pdf)
+    阿里巴巴的时序数据挖掘算法
+
 ## 增强学习
 
 - [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](pdf/HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionAndIntrinsicMotivation.pdf)
