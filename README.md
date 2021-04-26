@@ -132,6 +132,10 @@
 - [AirFace:Lightweight and Efficient Model for Face Recognition](pdf/AirFaceLightweightAndEfficientModelForFaceRecognition.pdf)
     中科大的Li-Arcface，据称对小的backbone模型能够解决训练过程难以收敛的问题
 
+- [Multiscale Vision Transformers](pdf/MultiscaleVisionTransformers.pdf)
+
+    Facebook 2021年论文，通过Transformer运用在图像上，提升识别准确率。
+
 ## 图算法
 
 - [The Neo4j Graph Algorithms User Guide v3.5](https://neo4j.com/docs/graph-algorithms/3.5/)
