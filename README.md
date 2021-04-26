@@ -249,3 +249,9 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 - [Multi-Task Learning for Text-dependent Speaker Verification](pdf/Multi-TaskLearningForText-dependentSpeakerVerification.pdf)
     
     j-vector，基于多任务学习，通过DNN网络进行speaker的判定和短语内容的判定，然后提取最后一个hidden layer的输出作为语音的embedding
+
+## 异常检测
+
+- [Anomaly detection using principles of human perception](pdf/AnomalyDetectionUsingPrinciplesOfHumanPerception.pdf)
+
+    异常检测的综述性文章
