@@ -136,6 +136,10 @@
 
     Facebook 2021年论文，通过Transformer运用在图像上，提升识别准确率。
 
+- [SlowFast Networks for Video Recognition](pdf/SlowFastNetworksForVideoRecognition.pdf)
+
+    Facebook的开源项目SlowFast的论文，做视频动作识别效果惊艳
+
 ## 图算法
 
 - [The Neo4j Graph Algorithms User Guide v3.5](https://neo4j.com/docs/graph-algorithms/3.5/)
