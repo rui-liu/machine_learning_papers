@@ -224,13 +224,17 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 - [RobustPeriod: Time-Frequency Mining for Robust Multiple Periodicities Detection](pdf/RobustPeriodTimeFrequencyMiningForRobustMultiplePeriodicitiesDetection.pdf)
     阿里巴巴的时序数据挖掘算法
 
-## 增强学习
+## 强化学习
 
 - [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](pdf/HierarchicalDeepReinforcementLearningIntegratingTemporalAbstractionAndIntrinsicMotivation.pdf)
 
 - [强化学习在阿里的技术演进及业务创新](pdf/reinforcement_learning.pdf)
 
     阿里总结的各种强化学习的应用场景及其算法，干货比较多。
+
+- [Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems](pdf/ReinforcementLearningToOptimizeLongTermUserEngagementInRecommenderSystems.pdf)
+
+    京东的个性化推荐中应用的强化学习模型
 
 ## Active Learning
 
