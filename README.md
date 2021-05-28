@@ -236,6 +236,13 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 
     京东的个性化推荐中应用的强化学习模型
 
+- [Human-level control through deep reinforcement learning](pdf/HumanLevelControlThroughDeepReinforcementLearning.pdf)
+
+    DQN的论文，提出了经验回放（experience replay）和随机采样的方法，在Atari游戏中取得了超越人类的表现
+
+- [Dueling Network Architectures for Deep Reinforcement Learning](pdf/DuelingNetworkArchitecturesForDeepReinforcementLearning.pdf)
+
+    Dueling DQN，分别预估值函数（Value Function）和优势函数(Advantage Function)，从而对短期优势更快学习收敛
 ## Active Learning
 
 - [Deep Bayesian active learning with image data](pdf/DeepBayesianActiveLearningWithImage.pdf)
@@ -246,7 +253,7 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 
     半监督学习的文本分类算法，用VAE作为无监督部分，最大熵和BALD（预测结果和模型后验的KL距离）作为uncertainty的度量，用TextCNN作为分类模型
 
-- [Deep Bayesian Active Learning for Natural Language Processing: Results of a Large-Scale Empirical Study](pdf/Deep Bayesian Active Learning for Natural Language Processing Results of a Large-Scale Empirical Study.pdf)
+- [Deep Bayesian Active Learning for Natural Language Processing: Results of a Large-Scale Empirical Study](pdf/DeepBayesianActiveLearningForNaturalLanguageProcessingResultsOfALarge-ScaleEmpiricalStudy.pdf)
 
     对比了几种不同模型在BALD下的NLP性能，源码： https://github.com/asiddhant/Active-NLP
 
