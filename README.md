@@ -240,6 +240,10 @@ techniques in the face of unequal class distributions](pdf/PredictingCreditDefau
 
     DQN的论文，提出了经验回放（experience replay）和随机采样的方法，在Atari游戏中取得了超越人类的表现
 
+- [Deep Reinforcement Learning with Double Q-learning](pdf/DeepReinforcementLearningWithDoubleQ-Learning.pdf)
+
+    Double DQN的论文。
+
 - [Dueling Network Architectures for Deep Reinforcement Learning](pdf/DuelingNetworkArchitecturesForDeepReinforcementLearning.pdf)
 
     Dueling DQN，分别预估值函数（Value Function）和优势函数(Advantage Function)，从而对短期优势更快学习收敛
