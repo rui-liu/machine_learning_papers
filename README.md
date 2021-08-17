@@ -14,6 +14,14 @@
 
     对Attention结构和应用进行了比较系统的介绍。
 
+- [Wide & Deep Learning for Recommender Systems](pdf/WideDeepLearningforRecommenderSystems.pdf)
+
+    Google早期的论文，提出了wide & deep模型，结合线性和深度模型的优势，早期使用很普遍的深度学习CTR模型
+
+- [TabNet: Attentive Interpretable Tabular Learning](pdf/TabNetAttentiveInterpretableTabularLearning.pdf)
+
+    Google的论文，借鉴了GBDT的思路，通过深度神经网络获得了和XGBoost相当的分类精度，在高维稀疏特征上的表现要远超XGBoost，可用于回归和分类问题。
+
 ## IR & Ranking
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](pdf/DSSM.pdf)
 
