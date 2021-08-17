@@ -117,8 +117,6 @@
 - [YOLO9000: Better, Faster, Stronger](pdf/YOLO9000.pdf)
 
     YOLO V2的论文，在第一版基础上，借鉴Fast-RCNN和SSD进行了优化
-
-
     
 - [SIMPLE ONLINE AND REALTIME TRACKING.pdf](pdf/SIMPLE_ONLINE_AND_REALTIME_TRACKING.pdf)
     目标追踪算法SORT
@@ -140,6 +138,13 @@
 
     Facebook的开源项目SlowFast的论文，做视频动作识别效果惊艳
 
+- [MicroNet: Towards Image Recognition with Extremely Low FLOPs](pdf/MicroNetTowardsImageRecognitionwithExtremelyLowFLOPs.pdf)
+
+    微软提的一个比MobileNet更轻量的网络，加入分组卷积减少计算量
+
+- [Mobile-Former: Bridging MobileNet and Transformer](pdf/MobileFormerBridgingMobileNetAndTransformer.pdf)
+
+    微软另一篇论文，对MobileNet和Transformer进行了桥接，可能能用在多模态算法上
 ## 图算法
 
 - [The Neo4j Graph Algorithms User Guide v3.5](https://neo4j.com/docs/graph-algorithms/3.5/)
