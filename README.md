@@ -6,6 +6,7 @@
 
 - [Generalized Out-of-Distribution Detection: A Survey](pdf/GeneralizedOutOfDistributionDetectionASurvey.pdf)
     关于ood的综述文章，很全面的总结了各种特征和语意异常的论文。
+
 ## 模型融合
 - [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
 
