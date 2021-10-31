@@ -4,6 +4,8 @@
 - [Online Learning: Theory, Algorithms, and Applications](pdf/OnlineLearningTheoryAlgorithmsAndApplications.pdf)
     一篇关于在线学习的综述文章，比较全面的介绍了在线学习相关算法。
 
+- [Generalized Out-of-Distribution Detection: A Survey](pdf/GeneralizedOutOfDistributionDetectionASurvey.pdf)
+    关于ood的综述文章，很全面的总结了各种特征和语意异常的论文。
 ## 模型融合
 - [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
 
